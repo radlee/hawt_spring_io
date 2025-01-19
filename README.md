@@ -82,7 +82,7 @@ Follow the steps to set up secure access as outlined in the project documentatio
 
 - **"Host Not Allowlisted" Error**: Add the required host to the allowlist in `application.properties`:
   ```properties
-  hawtio.proxyAllowlist=localhost,127.0.0.1,example.com
+  hawtio.proxyAllowlist=localhost,127.0.0.1,glu-engine-bay-36.dev.flash.co.za
   ```
 
 ---
